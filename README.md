@@ -2,7 +2,9 @@
  Note that the third commit is really big cuz I understood that this activity meant that I had to everything outside of the repo and push everything after I finish the first project.
  
  Here is the final outcome:
- ![Activity 1](https://github.com/honeyjoo/ECE444-F2020-Lab9/master/img1.png?raw=true)
+ ![Activity 1](https://github.com/honeyjoo/ECE444-F2020-Lab9/main/img1.png?raw=true)
+ 
+ 
 In the project directory, you can run:
 
 ### `yarn start`
